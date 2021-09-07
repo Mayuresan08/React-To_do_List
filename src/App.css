@@ -47,6 +47,7 @@ ol{
 .btn{
   border-style: none;
   background-color: transparent;
+  cursor: pointer;
 }
 .date{
 float: right;
